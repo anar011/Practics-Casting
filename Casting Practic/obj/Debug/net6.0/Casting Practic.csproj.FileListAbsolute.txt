@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\bin\Debug\net6.0\Casting Practic.exe
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\bin\Debug\net6.0\Casting Practic.deps.json
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\bin\Debug\net6.0\Casting Practic.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\bin\Debug\net6.0\Casting Practic.dll
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\bin\Debug\net6.0\Casting Practic.pdb
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\obj\Debug\net6.0\Casting Practic.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\obj\Debug\net6.0\Casting Practic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\obj\Debug\net6.0\Casting Practic.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\obj\Debug\net6.0\Casting Practic.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\obj\Debug\net6.0\Casting Practic.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\obj\Debug\net6.0\Casting Practic.dll
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\obj\Debug\net6.0\refint\Casting Practic.dll
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\obj\Debug\net6.0\Casting Practic.pdb
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\obj\Debug\net6.0\Casting Practic.genruntimeconfig.cache
+C:\Users\HP\Desktop\C#\Castings\Castings Practics\Casting Practic\Casting Practic\obj\Debug\net6.0\ref\Casting Practic.dll
